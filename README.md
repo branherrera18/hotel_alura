@@ -1,15 +1,12 @@
 
-# hotel_alura
-=======
+# Hotel_alura
+
 # Challenge ONE | Java | Back-end | Hotel Alura
 
 <p align="center" >
      <img width="300" heigth="300" src="https://user-images.githubusercontent.com/91544872/189419040-c093db78-c970-4960-8aca-ffcc11f7ffaf.png">
 </p>
 
----
-isita la página del desafío haciendo clic aquí! [Link do Challenge](https://www.aluracursos.com/challenges/oracle-one-java) 📃
-</br>
 
 ## 🖥️ Tecnologías Utilizadas:
 
@@ -19,6 +16,11 @@ isita la página del desafío haciendo clic aquí! [Link do Challenge](https://w
 - MySql
 - Plugin WindowBuilder </br>
 
+### Añadí un breve video con una pequeña demostracion de la funcionalidad del video
+
+<p align="center" >
+     <video width="50" heigth="50" src="https://user-images.githubusercontent.com/62573789/192897077-cc23e969-cc33-45bf-9807-7a113ad8a2ca.mp4">
+</p>
 
 
 
