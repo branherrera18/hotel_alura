@@ -14,15 +14,13 @@
 - Eclipse
 - Biblioteca JCalendar
 - MySql
-- Plugin WindowBuilder </br>
+- Plugin WindowBuilder 
 
-### Añadí un breve video con una pequeña demostracion de la funcionalidad del video
+### Añadí un breve video con una pequeña demostracion de la funcionalidad del proyecto.
 
 <p align="center" >
-     <video width="50" heigth="50" src="https://user-images.githubusercontent.com/62573789/192897077-cc23e969-cc33-45bf-9807-7a113ad8a2ca.mp4">
+     <video src="https://user-images.githubusercontent.com/62573789/192897077-cc23e969-cc33-45bf-9807-7a113ad8a2ca.mp4">
 </p>
-
-
 
 
 🧡 <strong>Oracle</strong></br>
